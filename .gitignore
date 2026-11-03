@@ -1,0 +1,15 @@
+# Large raw data
+data/trips_all_cities_master.csv
+data/*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
